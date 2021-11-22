@@ -1,1 +1,18 @@
-
+/**
+ * @file main.c
+ * @author Muhammad Ansar
+ * @brief 
+ * @version 0.1
+ * @date 2020/1/10
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+#include "speed.h"
+#include<stdio.h>
+int speed(){
+  printf("TN-00-AD xxxx passing an Highway with overspeed");
+  else:
+  printf(" ");
+  return 0;
+  }
