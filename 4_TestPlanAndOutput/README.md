@@ -1,9 +1,15 @@
- # TEST PLAN:
+#TEST PLAN:
+### High Level Test plan:
+| ID    | Description                             | Expected O/P | Actual O/P | Type of Test |
+|-------|-----------------------------------------| ------------ | ---------- | ------------ |
+| H_01  |Record moving vehicle                    |Recording     |SUCCESS     | Requirement  |
+| H_01  |Verify number board details              |Details       |SUCCESS     | Scenario     |
+| H_03  |Identify licence                         |PASSED        |SUCCESS     | Boundary     |
 
-HLT_01- sensing a car and detect over speed limit crossing within a range of sensors and transmit the data to control room.
 
-HLT_02-	sensing a bus and detect over speed limit crossing within a range of sensors and transmit the data to control room.
-
-HLT_03-	sensing a lorry and detect over speed limit crossing within a range of sensors and transmit the data to control room.
-
-HLT_04-	sensing a van and detect over speed limit crossing within a range of sensors and transmit the data to control room.
+### Low Level Test Plan:
+| ID    | Description                 | Expected O/P | Actual O/P | Type of Test | 
+|-------|-----------------------      | ------------ | -----------| ------------ |
+| L_01  |Identify and sense vehicle   | Record       |SUCESS      | Requirement  |
+| L_02  |Display over speeding        | Alarm        |SUCESS      | Scenario     |
+| L_03  |send complaint to controlroom| send/notsend |SUCCESS     | Boundary     |
