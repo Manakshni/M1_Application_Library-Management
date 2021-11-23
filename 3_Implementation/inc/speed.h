@@ -3,7 +3,6 @@
 
 #define __SPEED_H
 
-int guess();
 
 int Speed();
 
