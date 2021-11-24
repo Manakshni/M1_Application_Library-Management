@@ -22,6 +22,14 @@ Sometimes the circuit got failure and cause various problems.
 
 Infrared detector are extremely expensive which limits their use in many sectors.
 
+## Research
+
+1. A CCTV Camera can be placed on the highway. If any vehicle has crossed the maximum speed limit then this camera will be triggerred to take a picture of the vehicle.
+
+2. We can add voice announcement system. It will intimate the driver that he/she has crossed the over speed condition.
+
+3. We can implement the GSM technology. So that the nearest highway security authorities will be informed about the vehicle which has over speed.
+
 # SWOT analysis
 
 ## Strength
