@@ -104,4 +104,14 @@ Fully automated.
             
                DESCRIPTION : not sent
 
+## Cost :
 
+         for my project its around 3000. Including all components rate and all .
+
+## Features:
+
+           1.Can access for 24 x 7.
+
+           2.Protected with password.
+
+           3.Easy to operate.
