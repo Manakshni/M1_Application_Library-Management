@@ -106,7 +106,7 @@ Fully automated.
 
 ## Cost :
 
-         for my project its around 3000. Including all components rate and all .
+         The cost for implementing a project involving vehicle speed detector is minimal . But the extension of this project to various state of the art domains like identify vehicle colour,speed, movement direction are to be implement. 
 
 ## Features:
 
